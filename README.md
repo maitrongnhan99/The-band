@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # The band
 
@@ -20,3 +21,7 @@ Preview: https://maitrongnhan99.github.io/the-band/
 
 - [@maitrongnhan99](https://github.com/maitrongnhan99)
 
+=======
+# The band
+A sample code for The band templates form W3School
+>>>>>>> 6c9d1e6eb69c9ca596c50e80fd5515c77f8a1cd8
